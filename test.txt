@@ -1,0 +1,225 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Ion_trans            PF00520.31 NP_075461.2          -           5.2e-247  815.1  78.1   5.8e-68  228.7   0.6   4.1   4   0   0   4   4   4   4 Ion transport protein
+Ca_chan_IQ           PF08763.11 NP_075461.2          -            2.1e-30  104.7   0.5   6.3e-30  103.2   0.5   1.9   1   0   0   1   1   1   1 Voltage gated calcium channel IQ domain
+GPHH                 PF16905.5  NP_075461.2          -            5.6e-28   96.5   2.1   1.5e-27   95.1   1.1   2.4   3   0   0   3   3   1   1 Voltage-dependent L-type calcium channel, IQ-associated
+PKD_channel          PF08016.12 NP_075461.2          -            4.5e-06   25.6   8.4   4.5e-06   25.6   8.4  10.2   7   4   3  10  10   1   1 Polycystin cation channel
+Ion_trans            PF00520.31 NP_000709.1          -           7.8e-249  821.1  80.9   1.9e-67  227.1   1.6   4.1   4   0   0   4   4   4   4 Ion transport protein
+Ca_chan_IQ           PF08763.11 NP_000709.1          -            1.4e-31  108.5   0.0   3.4e-31  107.3   0.0   1.7   1   0   0   1   1   1   1 Voltage gated calcium channel IQ domain
+GPHH                 PF16905.5  NP_000709.1          -            9.6e-31  105.3   0.1   3.9e-30  103.4   0.3   2.0   2   0   0   2   2   1   1 Voltage-dependent L-type calcium channel, IQ-associated
+PKD_channel          PF08016.12 NP_000709.1          -            5.6e-09   35.2  29.2   1.9e-06   26.8  10.6   9.4   6   4   3  10  10   2   2 Polycystin cation channel
+Ion_trans            PF00520.31 XP_016857732.1       -           1.9e-245  810.0  79.7   4.8e-65  219.2  21.5   4.1   4   0   0   4   4   4   4 Ion transport protein
+Ca_chan_IQ           PF08763.11 XP_016857732.1       -            2.6e-28   98.1   0.2   7.6e-28   96.5   0.2   1.9   1   0   0   1   1   1   1 Voltage gated calcium channel IQ domain
+GPHH                 PF16905.5  XP_016857732.1       -            1.4e-27   95.2   0.1   6.6e-27   93.0   0.2   2.2   2   0   0   2   2   1   1 Voltage-dependent L-type calcium channel, IQ-associated
+PKD_channel          PF08016.12 XP_016857732.1       -            5.5e-10   38.5  21.9   7.9e-08   31.4   3.9   9.3   6   4   3  10  10   2   2 Polycystin cation channel
+VGCC_alpha2          PF08473.11 XP_006716181.1       -             7e-214  710.5   1.3  1.2e-213  709.7   1.3   1.4   1   0   0   1   1   1   1 Neuronal voltage-dependent calcium channel alpha 2acd
+VWA_N                PF08399.11 XP_006716181.1       -            1.8e-40  138.2   0.2   6.6e-40  136.4   0.1   2.0   2   0   0   2   2   1   1 VWA N-terminal
+VWA                  PF00092.28 XP_006716181.1       -              2e-21   77.0   0.8   4.4e-21   75.9   0.8   1.6   1   0   0   1   1   1   1 von Willebrand factor type A domain
+VWA_3                PF13768.6  XP_006716181.1       -            1.9e-15   57.2   0.0   4.5e-15   55.9   0.0   1.7   2   0   0   2   2   1   1 von Willebrand factor type A domain
+dCache_1             PF02743.18 XP_006716181.1       -            8.3e-12   45.4  13.3   4.3e-10   39.8   0.3   4.3   3   1   0   3   3   0   0 Cache domain
+VWA_2                PF13519.6  XP_006716181.1       -            1.8e-11   44.7   1.2   9.5e-11   42.3   0.4   2.3   2   0   0   2   2   1   1 von Willebrand factor type A domain
+VGCC_alpha2          PF08473.11 XP_011532545.1       -             1e-212  706.6   0.1  1.6e-212  706.0   0.1   1.3   1   0   0   1   1   1   1 Neuronal voltage-dependent calcium channel alpha 2acd
+VWA_N                PF08399.11 XP_011532545.1       -            3.8e-41  140.4   0.4   1.4e-40  138.6   0.4   2.0   1   0   0   1   1   1   1 VWA N-terminal
+VWA                  PF00092.28 XP_011532545.1       -            1.2e-19   71.3   0.1   2.2e-19   70.4   0.1   1.5   1   0   0   1   1   1   1 von Willebrand factor type A domain
+VWA_3                PF13768.6  XP_011532545.1       -            1.2e-13   51.2   0.0   2.1e-13   50.5   0.0   1.3   1   0   0   1   1   1   1 von Willebrand factor type A domain
+VWA_2                PF13519.6  XP_011532545.1       -            3.3e-11   43.8   0.2   9.7e-11   42.3   0.2   1.9   1   0   0   1   1   1   1 von Willebrand factor type A domain
+VGCC_alpha2          PF08473.11 NP_060868.2          -            1.9e-37  129.1   1.3   3.4e-37  128.3   1.3   1.4   1   0   0   1   1   1   1 Neuronal voltage-dependent calcium channel alpha 2acd
+VWA_N                PF08399.11 NP_060868.2          -            4.1e-37  127.4   0.1   9.3e-37  126.2   0.1   1.6   1   0   0   1   1   1   1 VWA N-terminal
+dCache_1             PF02743.18 NP_060868.2          -            6.7e-15   55.6   2.4   3.5e-11   43.4   0.1   3.9   3   1   0   3   3   0   0 Cache domain
+VWA_3                PF13768.6  NP_060868.2          -            7.3e-14   52.0   0.0   1.6e-13   50.9   0.0   1.5   1   0   0   1   1   1   1 von Willebrand factor type A domain
+VWA                  PF00092.28 NP_060868.2          -            1.5e-11   44.9   0.1   3.2e-11   43.8   0.1   1.6   1   0   0   1   1   1   1 von Willebrand factor type A domain
+VWA_2                PF13519.6  NP_060868.2          -            1.8e-09   38.2   0.1   4.4e-09   37.0   0.1   1.7   1   0   0   1   1   1   1 von Willebrand factor type A domain
+VGCC_alpha2          PF08473.11 NP_758952.4          -            7.9e-40  137.0   0.3   4.2e-39  134.6   0.3   1.9   1   1   0   1   1   1   1 Neuronal voltage-dependent calcium channel alpha 2acd
+VWA_N                PF08399.11 NP_758952.4          -            7.8e-38  129.7   0.1   1.5e-37  128.8   0.1   1.5   1   0   0   1   1   1   1 VWA N-terminal
+VWA_3                PF13768.6  NP_758952.4          -            1.2e-15   57.8   0.0     2e-15   57.0   0.0   1.4   1   0   0   1   1   1   1 von Willebrand factor type A domain
+dCache_1             PF02743.18 NP_758952.4          -            1.7e-12   47.7   0.1   5.3e-09   36.2   0.0   3.6   3   2   0   3   3   0   0 Cache domain
+VWA                  PF00092.28 NP_758952.4          -            2.2e-11   44.3   0.0   3.6e-11   43.6   0.0   1.3   1   0   0   1   1   1   1 von Willebrand factor type A domain
+VWA_2                PF13519.6  NP_758952.4          -              2e-09   38.0   0.1   4.5e-09   36.9   0.1   1.6   1   0   0   1   1   1   1 von Willebrand factor type A domain
+Guanylate_kin        PF00625.21 XP_005257702.1       -            8.8e-50  168.9   1.2     1e-49  168.7   0.3   1.6   2   0   0   2   2   1   1 Guanylate kinase
+VGCC_beta4Aa_N       PF12052.8  XP_005257702.1       -            1.1e-22   79.9   6.3     3e-22   78.4   6.3   1.9   1   0   0   1   1   1   1 Voltage gated calcium channel subunit beta domain 4Aa N terminal
+Guanylate_kin        PF00625.21 NP_963890.2          -            7.1e-50  169.2   1.2   7.8e-50  169.1   0.1   1.6   2   0   0   2   2   1   1 Guanylate kinase
+VGCC_beta4Aa_N       PF12052.8  NP_963890.2          -            5.9e-23   80.7   6.6   5.9e-23   80.7   6.6   2.8   3   0   0   3   3   1   1 Voltage gated calcium channel subunit beta domain 4Aa N terminal
+Guanylate_kin        PF00625.21 NP_000716.2          -            4.2e-46  156.9   0.4   8.7e-46  155.9   0.1   1.7   2   0   0   2   2   1   1 Guanylate kinase
+VGCC_beta4Aa_N       PF12052.8  NP_000716.2          -            1.7e-19   69.7   7.3   1.7e-19   69.7   7.3   2.2   2   0   0   2   2   1   1 Voltage gated calcium channel subunit beta domain 4Aa N terminal
+Guanylate_kin        PF00625.21 NP_000717.2          -            4.1e-47  160.2   0.1   9.6e-47  159.0   0.1   1.6   1   0   0   1   1   1   1 Guanylate kinase
+VGCC_beta4Aa_N       PF12052.8  NP_000717.2          -            1.5e-22   79.4   6.3   4.6e-22   77.8   6.3   1.9   1   0   0   1   1   1   1 Voltage gated calcium channel subunit beta domain 4Aa N terminal
+Claudin_2            PF13903.6  NP_000718.1          -            1.7e-41  142.1   3.1   2.1e-41  141.8   3.1   1.0   1   0   0   1   1   1   1 PMP-22/EMP/MP20/Claudin tight junction
+PMP22_Claudin        PF00822.20 NP_000718.1          -            1.1e-12   48.1  12.0   2.3e-11   43.9  12.0   2.0   1   1   0   1   1   1   1 PMP-22/EMP/MP20/Claudin family
+PMP22_Claudin        PF00822.20 NP_006069.1          -            9.6e-58  194.7   1.7   1.3e-57  194.3   1.7   1.2   1   0   0   1   1   1   1 PMP-22/EMP/MP20/Claudin family
+Claudin_2            PF13903.6  NP_006069.1          -            2.4e-21   76.4   0.8   5.5e-21   75.2   0.8   1.5   1   1   0   1   1   1   1 PMP-22/EMP/MP20/Claudin tight junction
+PMP22_Claudin        PF00822.20 NP_006530.1          -            1.5e-50  171.3   1.3     2e-50  170.9   0.7   1.4   1   1   1   2   2   1   1 PMP-22/EMP/MP20/Claudin family
+Claudin_2            PF13903.6  NP_006530.1          -            2.8e-20   72.9   0.4   5.1e-20   72.0   0.4   1.4   1   1   0   1   1   1   1 PMP-22/EMP/MP20/Claudin tight junction
+PMP22_Claudin        PF00822.20 NP_055220.1          -            3.9e-40  137.4   0.0   5.7e-40  136.9   0.0   1.2   1   0   0   1   1   1   1 PMP-22/EMP/MP20/Claudin family
+Claudin_2            PF13903.6  NP_055220.1          -            2.4e-19   69.8   0.0     4e-19   69.1   0.0   1.4   1   0   0   1   1   1   1 PMP-22/EMP/MP20/Claudin tight junction
+PMP22_Claudin        PF00822.20 NP_665810.1          -            6.1e-23   81.5   3.5   1.2e-22   80.5   3.5   1.4   1   1   0   1   1   1   1 PMP-22/EMP/MP20/Claudin family
+Claudin_2            PF13903.6  NP_665810.1          -            6.1e-22   78.3   4.0   8.7e-22   77.8   4.0   1.2   1   0   0   1   1   1   1 PMP-22/EMP/MP20/Claudin tight junction
+Claudin_2            PF13903.6  NP_665813.1          -            1.4e-29  103.2   1.0   1.8e-29  102.9   1.0   1.1   1   0   0   1   1   1   1 PMP-22/EMP/MP20/Claudin tight junction
+Claudin_2            PF13903.6  XP_005259181.1       -              3e-12   46.7   0.1   4.4e-12   46.2   0.1   1.2   1   0   0   1   1   1   1 PMP-22/EMP/MP20/Claudin tight junction
+PMP22_Claudin        PF00822.20 XP_005259181.1       -            2.3e-07   30.9   0.3   4.5e-07   29.9   0.3   1.4   1   1   0   1   1   1   1 PMP-22/EMP/MP20/Claudin family
+PMP22_Claudin        PF00822.20 NP_114101.4          -              1e-38  132.8   0.0   1.4e-38  132.4   0.0   1.2   1   0   0   1   1   1   1 PMP-22/EMP/MP20/Claudin family
+Claudin_2            PF13903.6  NP_114101.4          -            3.3e-19   69.4   0.0   4.9e-19   68.8   0.0   1.2   1   0   0   1   1   1   1 PMP-22/EMP/MP20/Claudin tight junction
+Cast                 PF10174.9  XP_016874542.1       -                  0 1187.9 184.1  1.9e-160  535.7  83.0   3.1   1   1   2   3   3   3   3 RIM-binding protein of the cytomatrix active zone
+RBD-FIP              PF09457.10 XP_016874542.1       -            3.7e-15   55.5   0.2   3.7e-15   55.5   0.2   6.7   7   0   0   7   7   1   1 FIP domain
+Cast                 PF10174.9  XP_016861627.1       -                  0 1244.1 159.5         0 1243.2 159.5   1.4   1   1   0   1   1   1   1 RIM-binding protein of the cytomatrix active zone
+Synaphin             PF05835.12 NP_006642.1          -            5.6e-40  136.9  13.1   6.4e-40  136.7  13.1   1.0   1   0   0   1   1   1   1 Synaphin protein
+Synaphin             PF05835.12 NP_001008221.1       -            1.1e-39  135.9  17.5   1.3e-39  135.7  17.5   1.0   1   0   0   1   1   1   1 Synaphin protein
+Synaphin             PF05835.12 NP_001025176.1       -            4.7e-47  159.9   8.2   5.6e-47  159.6   8.2   1.1   1   0   0   1   1   1   1 Synaphin protein
+Synaphin             PF05835.12 NP_857637.1          -            4.4e-48  163.2  14.4   5.6e-48  162.8  14.4   1.1   1   0   0   1   1   1   1 Synaphin protein
+C2                   PF00168.30 NP_001073890.2       -              7e-56  186.9   2.7   2.4e-26   92.0   0.3   3.7   3   0   0   3   3   3   3 C2 domain
+Membr_traf_MHD       PF10540.9  NP_001073890.2       -            1.7e-54  184.1   2.1   4.7e-54  182.6   2.1   1.9   1   0   0   1   1   1   1 Munc13 (mammalian uncoordinated) homology domain
+DUF1041              PF06292.17 NP_001073890.2       -            6.7e-37  126.1   0.3   6.7e-37  126.1   0.3   2.9   2   0   0   2   2   1   1 Domain of Unknown Function (DUF1041)
+C1_1                 PF00130.22 NP_001073890.2       -            3.3e-11   42.9   6.2   8.8e-11   41.5   6.2   1.8   1   0   0   1   1   1   1 Phorbol esters/diacylglycerol binding domain (C1 domain)
+Membr_traf_MHD       PF10540.9  NP_001358118.1       -            1.2e-55  187.8   1.4   5.1e-55  185.7   1.4   2.2   1   0   0   1   1   1   1 Munc13 (mammalian uncoordinated) homology domain
+C2                   PF00168.30 NP_001358118.1       -            6.4e-51  170.9  10.8   4.1e-26   91.3   0.5   4.0   4   0   0   4   4   3   3 C2 domain
+DUF1041              PF06292.17 NP_001358118.1       -            2.3e-36  124.4   0.2   2.3e-36  124.4   0.2   2.4   2   0   0   2   2   1   1 Domain of Unknown Function (DUF1041)
+C1_1                 PF00130.22 NP_001358118.1       -              4e-11   42.6   6.2   1.6e-10   40.7   6.2   2.2   1   0   0   1   1   1   1 Phorbol esters/diacylglycerol binding domain (C1 domain)
+Membr_traf_MHD       PF10540.9  NP_001074003.1       -            1.1e-49  168.5   1.0   6.5e-49  165.9   1.0   2.5   1   0   0   1   1   1   1 Munc13 (mammalian uncoordinated) homology domain
+C2                   PF00168.30 NP_001074003.1       -              3e-44  149.5   2.9   4.8e-26   91.1   0.6   3.3   3   0   0   3   3   2   2 C2 domain
+DUF1041              PF06292.17 NP_001074003.1       -            1.3e-34  118.8   3.2   2.1e-34  118.1   0.0   3.0   2   0   0   2   2   1   1 Domain of Unknown Function (DUF1041)
+C1_1                 PF00130.22 NP_001074003.1       -              6e-11   42.1   6.1   1.3e-10   41.0   6.1   1.6   1   0   0   1   1   1   1 Phorbol esters/diacylglycerol binding domain (C1 domain)
+C2                   PF00168.30 NP_954712.1          -              3e-28   98.1   0.0   1.7e-12   47.5   0.0   4.1   2   1   0   2   2   2   2 C2 domain
+Membr_traf_MHD       PF10540.9  NP_954712.1          -            1.1e-21   77.6   4.1   4.1e-13   49.7   0.0   2.8   1   1   1   2   2   1   1 Munc13 (mammalian uncoordinated) homology domain
+Sec1                 PF00995.23 NP_003156.1          -           1.6e-126  423.9   1.1  1.8e-126  423.7   1.1   1.0   1   0   0   1   1   1   1 Sec1 family
+Sec1                 PF00995.23 NP_001258963.1       -           2.5e-122  410.0   0.0  2.8e-122  409.9   0.0   1.0   1   0   0   1   1   1   1 Sec1 family
+Sec1                 PF00995.23 NP_009200.2          -           4.1e-118  396.1   5.0  4.7e-118  395.9   5.0   1.0   1   0   0   1   1   1   1 Sec1 family
+SNAP-25              PF00835.19 NP_570824.1          -            2.2e-21   75.9   0.2   5.3e-21   74.7   0.2   1.7   1   0   0   1   1   1   1 SNAP-25 family
+Syntaxin             PF00804.25 XP_016868056.1       -            1.3e-62  211.1  15.0   1.5e-62  210.8  15.0   1.1   1   0   0   1   1   1   1 Syntaxin
+Syntaxin_2           PF14523.6  XP_016868056.1       -            4.8e-12   46.1   5.2   4.8e-12   46.1   5.2   2.1   3   0   0   3   3   1   1 Syntaxin-like protein
+Syntaxin             PF00804.25 NP_443106.1          -            4.2e-64  215.9  18.4   6.7e-64  215.3  18.4   1.3   1   0   0   1   1   1   1 Syntaxin
+SNARE                PF05739.19 NP_443106.1          -            1.4e-21   76.3   3.4   2.1e-21   75.6   1.3   2.4   2   0   0   2   2   1   1 SNARE domain
+Syntaxin_2           PF14523.6  NP_443106.1          -            3.7e-10   40.1   7.7   3.7e-10   40.1   7.7   2.5   1   1   1   2   2   1   1 Syntaxin-like protein
+Syntaxin             PF00804.25 XP_016874467.1       -            9.8e-65  218.0  15.3   9.8e-65  218.0  15.3   1.5   2   0   0   2   2   1   1 Syntaxin
+SNARE                PF05739.19 XP_016874467.1       -            5.5e-18   64.7   1.7   5.5e-18   64.7   1.7   2.4   2   0   0   2   2   1   1 SNARE domain
+Syntaxin_2           PF14523.6  XP_016874467.1       -            7.8e-10   39.0   5.9   7.8e-10   39.0   5.9   2.5   2   1   0   2   2   1   1 Syntaxin-like protein
+Syntaxin             PF00804.25 NP_004168.1          -            2.4e-60  203.6  13.3   2.4e-60  203.6  13.3   1.6   2   0   0   2   2   1   1 Syntaxin
+SNARE                PF05739.19 NP_004168.1          -            1.7e-19   69.5   2.3   1.7e-19   69.5   2.3   3.0   3   0   0   3   3   1   1 SNARE domain
+Syntaxin_2           PF14523.6  NP_004168.1          -              2e-09   37.7   4.3     2e-09   37.7   4.3   2.5   2   2   0   2   2   1   1 Syntaxin-like protein
+Syntaxin             PF00804.25 NP_004595.2          -            1.1e-42  146.0  20.0   1.1e-42  146.0  20.0   1.7   2   0   0   2   2   1   1 Syntaxin
+SNARE                PF05739.19 NP_004595.2          -            4.4e-14   52.2   1.9   1.5e-13   50.5   1.9   2.0   1   0   0   1   1   1   1 SNARE domain
+Syntaxin_2           PF14523.6  NP_004595.2          -            4.9e-07   30.1   7.4   4.9e-07   30.1   7.4   2.7   1   1   2   3   3   1   1 Syntaxin-like protein
+SNARE                PF05739.19 NP_003155.2          -            1.6e-16   60.0   0.7   3.9e-16   58.8   0.7   1.7   1   0   0   1   1   1   1 SNARE domain
+Syntaxin-5_N         PF11416.8  NP_003155.2          -            1.5e-11   43.1   1.3   5.1e-11   41.5   1.3   2.0   1   0   0   1   1   1   1 Syntaxin-5 N-terminal, Sly1p-binding domain
+Syntaxin-6_N         PF09177.11 NP_005810.1          -            8.6e-39  132.1   0.9   8.6e-39  132.1   0.9   2.9   2   1   0   2   2   1   1 Syntaxin 6, N-terminal
+SNARE                PF05739.19 NP_005810.1          -            8.5e-12   44.9   0.7   8.5e-12   44.9   0.7   2.5   3   0   0   3   3   1   1 SNARE domain
+Syntaxin_2           PF14523.6  NP_003560.2          -              3e-29  101.3  17.6   1.4e-27   96.0  10.5   2.3   2   0   0   2   2   1   1 Syntaxin-like protein
+SNARE                PF05739.19 NP_003560.2          -            5.1e-19   68.0   2.8   1.3e-18   66.8   2.8   1.7   1   0   0   1   1   1   1 SNARE domain
+Syntaxin             PF00804.25 NP_003560.2          -            2.8e-10   40.2  14.8   2.8e-10   40.2  14.8   1.9   2   1   0   2   2   1   1 Syntaxin
+SNARE                PF05739.19 NP_004844.1          -            7.9e-10   38.6   3.2   1.4e-09   37.8   3.2   1.4   1   0   0   1   1   1   1 SNARE domain
+C2                   PF00168.30 NP_055804.2          -              3e-38  130.3   0.0   1.9e-18   66.6   0.1   2.7   2   0   0   2   2   2   2 C2 domain
+PDZ                  PF00595.24 NP_055804.2          -            7.2e-10   39.1   0.0   1.6e-09   38.0   0.0   1.5   1   0   0   1   1   1   1 PDZ domain
+PDZ_6                PF17820.1  NP_055804.2          -            1.7e-09   37.4   0.0   3.5e-09   36.4   0.0   1.6   1   0   0   1   1   1   1 PDZ domain
+FYVE_2               PF02318.16 NP_055804.2          -            1.8e-07   31.3  18.2   1.2e-06   28.7   8.4   2.7   1   1   1   2   2   1   1 FYVE-type zinc finger
+C2                   PF00168.30 XP_011515697.1       -            1.5e-37  128.0   0.1   3.3e-19   69.1   0.0   3.2   3   0   0   3   3   2   2 C2 domain
+PDZ_6                PF17820.1  XP_011515697.1       -            1.4e-11   44.1   0.0   3.2e-11   42.9   0.0   1.7   1   0   0   1   1   1   1 PDZ domain
+FYVE_2               PF02318.16 XP_011515697.1       -            3.2e-09   37.0  10.4   3.2e-09   37.0  10.4   2.9   3   0   0   3   3   1   1 FYVE-type zinc finger
+PDZ                  PF00595.24 XP_011515697.1       -            6.8e-06   26.3   0.0   1.7e-05   25.1   0.0   1.7   1   0   0   1   1   1   1 PDZ domain
+C2                   PF00168.30 XP_011540781.1       -            2.5e-15   56.6   0.0     4e-15   55.9   0.0   1.3   1   0   0   1   1   1   1 C2 domain
+C2                   PF00168.30 NP_001192246.1       -            2.1e-15   56.9   0.0   3.2e-15   56.3   0.0   1.3   1   0   0   1   1   1   1 C2 domain
+SH3_2                PF07653.17 NP_004749.2          -            1.8e-36  123.6   0.0     2e-11   43.4   0.0   3.9   4   0   0   4   4   3   3 Variant SH3 domain
+SH3_9                PF14604.6  NP_004749.2          -            2.2e-31  107.5   2.8     4e-11   42.6   0.0   3.9   3   0   0   3   3   2   2 Variant SH3 domain
+SH3_1                PF00018.28 NP_004749.2          -            2.5e-15   55.8   0.2   0.00019   20.9   0.0   4.1   3   1   0   3   3   0   0 SH3 domain
+SH3_2                PF07653.17 XP_011536405.1       -            8.2e-32  108.7   0.0   2.3e-10   40.0   0.0   3.8   3   0   0   3   3   3   3 Variant SH3 domain
+SH3_9                PF14604.6  XP_011536405.1       -            2.6e-27   94.4   3.4   3.9e-12   45.8   0.1   3.7   3   0   0   3   3   2   2 Variant SH3 domain
+SH3_1                PF00018.28 XP_011536405.1       -            2.9e-15   55.6   0.1   2.1e-06   27.2   0.0   3.9   3   1   0   3   3   1   1 SH3 domain
+fn3                  PF00041.21 XP_011536405.1       -            4.6e-13   49.3   3.0   0.00096   19.5   0.2   4.1   3   1   0   3   3   0   0 Fibronectin type III domain
+Ras                  PF00071.22 NP_002857.1          -            2.7e-61  205.9   0.6   3.3e-61  205.6   0.6   1.1   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 NP_002857.1          -            1.2e-33  115.8   0.5   1.8e-33  115.3   0.5   1.3   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 NP_002857.1          -            2.1e-14   53.3   0.1   2.8e-14   53.0   0.1   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+SRPRB                PF09439.10 NP_002857.1          -            5.4e-06   26.0   0.0   8.1e-05   22.1   0.0   2.0   2   0   0   2   2   1   1 Signal recognition particle receptor beta subunit
+MMR_HSR1             PF01926.23 NP_002857.1          -            7.8e-05   22.7   0.1   0.00027   21.0   0.0   1.8   2   0   0   2   2   0   0 50S ribosome-binding GTPase
+Ras                  PF00071.22 NP_002858.2          -            9.3e-61  204.1   0.5   1.1e-60  203.9   0.5   1.1   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 NP_002858.2          -              5e-34  117.1   0.6     7e-34  116.6   0.6   1.2   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 NP_002858.2          -            6.6e-14   51.7   0.1   8.5e-14   51.4   0.1   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+SRPRB                PF09439.10 NP_002858.2          -            5.6e-05   22.7   0.0   0.00025   20.5   0.0   1.8   2   0   0   2   2   1   1 Signal recognition particle receptor beta subunit
+Ras                  PF00071.22 NP_612462.1          -            3.2e-61  205.6   1.8   4.1e-61  205.3   1.8   1.1   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 NP_612462.1          -            1.9e-33  115.2   1.1   2.9e-33  114.6   1.1   1.3   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 NP_612462.1          -            1.9e-14   53.5   0.2   2.5e-14   53.1   0.2   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+SRPRB                PF09439.10 NP_612462.1          -              1e-05   25.0   0.7   0.00017   21.0   0.0   2.1   1   1   0   2   2   1   1 Signal recognition particle receptor beta subunit
+Ras                  PF00071.22 NP_899058.1          -            2.6e-56  189.7   0.0   3.1e-56  189.4   0.0   1.0   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 NP_899058.1          -            1.1e-30  106.3   0.0   1.5e-30  105.9   0.0   1.2   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 NP_899058.1          -            1.2e-11   44.4   0.0   1.7e-11   43.9   0.0   1.2   1   0   0   1   1   1   1 ADP-ribosylation factor family
+Ras                  PF00071.22 NP_001362256.1       -            8.1e-55  184.8   0.0   9.7e-55  184.6   0.0   1.1   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 NP_001362256.1       -            9.4e-33  113.0   0.0   1.4e-32  112.5   0.0   1.2   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 NP_001362256.1       -            1.5e-13   50.6   0.0   2.9e-13   49.7   0.0   1.4   1   1   0   1   1   1   1 ADP-ribosylation factor family
+Synaptobrevin        PF00957.21 NP_055046.1          -            7.5e-34  115.4   2.4   8.3e-34  115.2   2.4   1.0   1   0   0   1   1   1   1 Synaptobrevin
+Synaptobrevin        PF00957.21 NP_001317054.1       -            3.1e-35  119.8   3.1   3.5e-35  119.7   3.1   1.0   1   0   0   1   1   1   1 Synaptobrevin
+Synaptobrevin        PF00957.21 XP_016858330.1       -            4.9e-34  116.0   2.3   6.2e-34  115.7   2.3   1.1   1   0   0   1   1   1   1 Synaptobrevin
+Synaptobrevin        PF00957.21 NP_003753.2          -            2.6e-33  113.7   5.4   3.3e-33  113.3   5.4   1.1   1   0   0   1   1   1   1 Synaptobrevin
+Synaptobrevin        PF00957.21 NP_006625.1          -            1.6e-26   91.9   1.7     2e-26   91.6   1.7   1.1   1   0   0   1   1   1   1 Synaptobrevin
+Longin               PF13774.6  NP_001172112.1       -            7.3e-27   93.2   0.6   7.3e-27   93.2   0.6   1.8   2   0   0   2   2   1   1 Regulated-SNARE-like domain
+Synaptobrevin        PF00957.21 NP_003752.2          -            1.6e-32  111.1   1.7   1.8e-32  110.9   1.7   1.0   1   0   0   1   1   1   1 Synaptobrevin
+Synapsin_C           PF02750.14 NP_008881.2          -           1.8e-121  403.2   0.8  2.3e-121  402.8   0.8   1.1   1   0   0   1   1   1   1 Synapsin, ATP binding domain
+Synapsin             PF02078.16 NP_008881.2          -            4.2e-44  149.0   0.0   1.4e-43  147.2   0.0   1.9   2   0   0   2   2   1   1 Synapsin, N-terminal domain
+Synapsin_N           PF10581.9  NP_008881.2          -            3.8e-21   74.7   6.5   1.3e-20   73.0   6.5   2.0   1   0   0   1   1   1   1 Synapsin N-terminal
+Synapsin_C           PF02750.14 NP_598328.1          -           8.1e-139  459.8   0.7  1.1e-138  459.4   0.7   1.2   1   0   0   1   1   1   1 Synapsin, ATP binding domain
+Synapsin             PF02078.16 NP_598328.1          -            1.9e-44  150.0   0.0     1e-43  147.7   0.0   2.1   2   0   0   2   2   1   1 Synapsin, N-terminal domain
+Synapsin_N           PF10581.9  NP_598328.1          -            3.4e-21   74.9   2.0   3.4e-21   74.9   2.0   2.2   2   0   0   2   2   1   1 Synapsin N-terminal
+Synapsin_C           PF02750.14 NP_003481.3          -           3.4e-136  451.3   0.5  4.3e-136  450.9   0.5   1.1   1   0   0   1   1   1   1 Synapsin, ATP binding domain
+Synapsin             PF02078.16 NP_003481.3          -            4.2e-43  145.8   0.0   4.6e-42  142.4   0.0   2.5   2   1   1   3   3   1   1 Synapsin, N-terminal domain
+Synapsin_N           PF10581.9  NP_003481.3          -            1.2e-20   73.1   4.8     3e-20   71.8   4.8   1.7   1   0   0   1   1   1   1 Synapsin N-terminal
+C2                   PF00168.30 NP_005630.1          -            9.9e-56  186.4   0.5   1.3e-27   96.1   0.0   2.3   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 XP_016855798.1       -            3.8e-55  184.5   0.3   2.2e-28   98.5   0.0   2.3   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 NP_001153801.1       -            5.6e-52  174.3   0.0   4.8e-27   94.2   0.0   2.2   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 NP_065834.1          -            3.7e-44  149.2   0.0   7.1e-22   77.6   0.0   2.3   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 NP_003171.2          -            3.5e-51  171.8   0.0     1e-24   86.8   0.0   2.2   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 NP_001353153.1       -            2.8e-51  172.1   0.0   3.8e-24   84.9   0.0   2.7   3   0   0   3   3   2   2 C2 domain
+C2                   PF00168.30 XP_011543637.1       -            3.6e-53  178.2   2.0   2.3e-26   92.1   0.1   2.3   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 XP_016874017.1       -              2e-34  118.0   0.0   2.1e-17   63.3   0.0   2.2   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 XP_011518202.1       -            2.8e-53  178.5   0.1   4.1e-26   91.3   0.1   2.3   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 NP_945343.1          -            5.2e-54  180.9   0.1   7.5e-27   93.6   0.0   2.3   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 XP_016856248.1       -            9.7e-44  147.9   0.0   8.3e-21   74.2   0.0   2.3   2   0   0   2   2   2   2 C2 domain
+C2                   PF00168.30 XP_024304534.1       -              2e-24   85.8   0.0   6.1e-16   58.6   0.1   2.6   3   0   0   3   3   2   2 C2 domain
+zf-piccolo           PF05715.13 NP_003449.2          -            8.6e-55  182.8  34.1   5.3e-28   96.9  11.2   2.5   2   0   0   2   2   2   2 Piccolo Zn-finger
+SAM_1                PF00536.30 XP_006718779.1       -            7.9e-25   87.1   0.2   7.9e-12   45.4   0.1   3.8   3   0   0   3   3   1   1 SAM domain (Sterile alpha motif)
+SAM_2                PF07647.17 XP_006718779.1       -            6.8e-21   74.2   0.2   5.6e-07   29.6   0.0   3.7   3   0   0   3   3   2   2 SAM domain (Sterile alpha motif)
+SAM_1                PF00536.30 XP_016875568.1       -            4.2e-27   94.4   1.0   4.3e-13   49.5   0.2   4.1   4   0   0   4   4   2   2 SAM domain (Sterile alpha motif)
+SAM_2                PF07647.17 XP_016875568.1       -            3.1e-22   78.4   0.5   7.2e-08   32.4   0.1   3.8   3   0   0   3   3   2   2 SAM domain (Sterile alpha motif)
+SAM_1                PF00536.30 NP_003651.1          -              2e-22   79.4   2.2     5e-11   42.9   0.2   4.8   5   0   0   5   5   2   2 SAM domain (Sterile alpha motif)
+SAM_2                PF07647.17 NP_003651.1          -            1.8e-22   79.2   0.3   1.6e-07   31.4   0.0   3.9   3   0   0   3   3   2   2 SAM domain (Sterile alpha motif)
+SAM_1                PF00536.30 XP_006711649.1       -              2e-26   92.2   0.8   4.5e-13   49.4   0.2   4.8   4   0   0   4   4   2   2 SAM domain (Sterile alpha motif)
+SAM_2                PF07647.17 XP_006711649.1       -            4.2e-24   84.4   0.9   1.4e-09   37.9   0.1   3.8   3   0   0   3   3   2   2 SAM domain (Sterile alpha motif)
+zf-piccolo           PF05715.13 NP_149015.2          -            4.1e-57  190.2  32.6   2.8e-30  104.2  12.5   2.5   2   0   0   2   2   2   2 Piccolo Zn-finger
+C2                   PF00168.30 NP_149015.2          -            7.4e-38  129.0   0.6   3.8e-23   81.7   0.1   2.7   2   0   0   2   2   2   2 C2 domain
+PDZ                  PF00595.24 NP_149015.2          -              1e-07   32.2   0.2   3.5e-07   30.5   0.2   1.9   1   0   0   1   1   1   1 PDZ domain
+Adaptin_N            PF01602.20 XP_011524858.1       -           1.6e-148  495.5   3.1  1.9e-148  495.3   3.1   1.1   1   0   0   1   1   1   1 Adaptin N terminal region
+Alpha_adaptin_C      PF02296.16 XP_011524858.1       -            1.4e-44  150.9   0.0     3e-44  149.8   0.0   1.6   1   0   0   1   1   1   1 Alpha adaptin AP2, C-terminal domain
+Alpha_adaptinC2      PF02883.20 XP_011524858.1       -            5.2e-21   75.0   0.2   1.1e-20   74.0   0.2   1.5   1   0   0   1   1   1   1 Adaptin C-terminal domain
+Cnd1                 PF12717.7  XP_011524858.1       -            1.1e-07   32.1   0.5   9.1e-06   25.8   0.0   2.6   2   0   0   2   2   0   0 non-SMC mitotic condensation complex subunit 1
+Adaptin_N            PF01602.20 XP_011522750.1       -           1.6e-162  541.7  13.9    2e-162  541.4  13.9   1.1   1   0   0   1   1   1   1 Adaptin N terminal region
+Cnd1                 PF12717.7  XP_011522750.1       -            3.1e-68  228.9  14.3   2.5e-66  222.7   1.5   3.9   3   1   1   4   4   1   1 non-SMC mitotic condensation complex subunit 1
+B2-adapt-app_C       PF09066.10 XP_011522750.1       -            8.8e-38  128.9   0.1   2.7e-37  127.3   0.1   1.9   1   0   0   1   1   1   1 Beta2-adaptin appendage, C-terminal sub-domain
+HEAT_2               PF13646.6  XP_011522750.1       -            2.1e-21   76.1   5.6   6.7e-06   26.4   0.0   6.5   3   2   3   7   7   0   0 HEAT repeats
+HEAT                 PF02985.22 XP_011522750.1       -            8.5e-12   44.3  12.8    0.0085   16.3   0.1   7.9   8   0   0   8   8   0   0 HEAT repeat
+Alpha_adaptinC2      PF02883.20 XP_011522750.1       -            5.8e-11   42.7   1.3   1.1e-10   41.8   0.2   2.1   2   0   0   2   2   1   1 Adaptin C-terminal domain
+Arm                  PF00514.23 XP_011522750.1       -            5.6e-08   32.5   2.2     0.028   14.5   0.0   5.4   5   0   0   5   5   0   0 Armadillo/beta-catenin-like repeat
+Cnd3                 PF12719.7  XP_011522750.1       -            1.9e-07   30.6   4.3   1.1e-05   24.8   0.3   2.8   2   1   0   2   2   0   0 Nuclear condensing complex subunits, C-term domain
+Clathrin             PF00637.20 NP_001275582.1       -           8.9e-210  687.0  39.0   1.8e-34  118.6   1.4   7.9   7   1   1   8   8   7   7 Region in Clathrin and VPS
+Clathrin_propel      PF01394.20 NP_001275582.1       -            6.2e-50  165.2   2.3   3.1e-08   33.5   0.0   6.6   6   0   0   6   6   5   5 Clathrin propeller repeat
+Clathrin_H_link      PF13838.6  NP_001275582.1       -            1.4e-32  111.4   0.3   7.2e-32  109.1   0.3   2.4   1   0   0   1   1   1   1 Clathrin-H-link
+Clathrin-link        PF09268.10 NP_001275582.1       -              1e-14   53.5   0.7   3.2e-14   52.0   0.7   1.9   1   0   0   1   1   1   1 Clathrin, heavy-chain linker
+Clathrin_lg_ch       PF01086.17 NP_009027.1          -            4.7e-57  193.7   4.0   9.8e-57  192.7   4.0   1.5   1   1   0   1   1   1   1 Clathrin light chain
+Clathrin_lg_ch       PF01086.17 NP_009028.1          -            8.8e-58  196.1   9.5   1.2e-57  195.6   9.5   1.2   1   0   0   1   1   1   1 Clathrin light chain
+Dynamin_M            PF01031.20 NP_001361198.1       -             2e-112  375.1   3.7    2e-112  375.1   3.7   1.8   2   0   0   2   2   1   1 Dynamin central region
+Dynamin_N            PF00350.23 NP_001361198.1       -            1.6e-54  184.5   0.1   5.5e-54  182.7   0.0   2.1   2   0   0   2   2   1   1 Dynamin family
+GED                  PF02212.18 NP_001361198.1       -            6.6e-28   96.7   2.4   1.6e-27   95.4   2.4   1.7   1   0   0   1   1   1   1 Dynamin GTPase effector domain
+PH                   PF00169.29 NP_001361198.1       -            3.8e-12   46.6   0.9   7.8e-12   45.6   0.9   1.5   1   0   0   1   1   1   1 PH domain
+Dynamin_M            PF01031.20 NP_001005361.1       -           7.2e-112  373.3   3.4  1.3e-111  372.4   2.1   2.0   2   0   0   2   2   1   1 Dynamin central region
+Dynamin_N            PF00350.23 NP_001005361.1       -            1.1e-55  188.2   0.0   3.5e-55  186.6   0.0   1.9   1   0   0   1   1   1   1 Dynamin family
+GED                  PF02212.18 NP_001005361.1       -            4.8e-26   90.7   4.4     1e-25   89.7   2.7   2.3   2   0   0   2   2   1   1 Dynamin GTPase effector domain
+PH                   PF00169.29 NP_001005361.1       -              9e-14   51.9   0.6   1.9e-13   50.8   0.6   1.6   1   0   0   1   1   1   1 PH domain
+MMR_HSR1             PF01926.23 NP_001005361.1       -            2.1e-05   24.6   0.1   0.00061   19.8   0.0   2.7   2   0   0   2   2   0   0 50S ribosome-binding GTPase
+Dynamin_M            PF01031.20 XP_016856465.1       -           2.7e-106  354.9   4.5  2.7e-106  354.9   4.5   2.0   2   0   0   2   2   1   1 Dynamin central region
+Dynamin_N            PF00350.23 XP_016856465.1       -            1.3e-56  191.2   0.1   4.8e-56  189.4   0.0   2.0   2   0   0   2   2   1   1 Dynamin family
+GED                  PF02212.18 XP_016856465.1       -            3.1e-28   97.8   3.7   3.1e-28   97.8   3.7   2.2   2   0   0   2   2   1   1 Dynamin GTPase effector domain
+PH                   PF00169.29 XP_016856465.1       -            3.4e-09   37.2   0.5   2.4e-08   34.4   0.5   2.2   1   1   0   1   1   1   1 PH domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      NCBI_narrow_Presynapse_Sequences.fasta
+# Target file:     Pfam-A.hmm
+# Option settings: hmmscan --tblout test.txt --cut_ga Pfam-A.hmm NCBI_narrow_Presynapse_Sequences.fasta 
+# Current dir:     /home/paradoxist/Project/Battlefield/Explicit/Another Branch
+# Date:            Mon Apr 27 20:23:23 2020
+# [ok]
